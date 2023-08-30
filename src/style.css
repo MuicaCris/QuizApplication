@@ -24,7 +24,7 @@ section {
 }
 
 .game-quiz-container {
-    z-index: 100;
+    z-index: 1000;
     width: 40rem;
     height: 30rem;
     background-color: lightgray;
